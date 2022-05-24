@@ -1,0 +1,1 @@
+print('fitur A')
